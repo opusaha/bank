@@ -1,0 +1,10 @@
+.welcome-text{
+    text-align: center;
+    padding-top: 100px;
+}
+.submit-area{
+    margin-top: 50px;
+    border-radius: 10px;
+    box-shadow: 5px 5px 10px ;
+    padding: 0 100px;
+}
