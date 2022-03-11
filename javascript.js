@@ -33,5 +33,4 @@ withdraw.addEventListener("click",function () {
     const totalBalance = balance - withdrawNumber;
     document.getElementById(`current-balance`).innerText = totalBalance;
     document.getElementById(`withdraw-amount`).value = "";
-
 });
